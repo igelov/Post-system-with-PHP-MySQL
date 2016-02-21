@@ -1,0 +1,8 @@
+Данни за сървъра - localhost 
+Име за вход към сървъра - user
+Парола за вход сървъра - qwerty
+Име на базата данни - users
+
+
+
+$connect = @mysqli_connect('localhost', 'user', 'qwerty', 'users');
