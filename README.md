@@ -9,3 +9,4 @@ Text added for conflict!
 
 And the conflict is resolved!
 Edited again MasterBranch!
+This is a new branch called newWay!
