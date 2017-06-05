@@ -8,3 +8,4 @@ This is a text from a local copy!
 Text added for conflict!
 
 And the conflict is resolved!
+Edited again MasterBranch!
